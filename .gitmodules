@@ -1,3 +1,6 @@
 [submodule "5-grading-tests"]
 	path = 5-grading-tests
 	url = git@github.com:spbu-coding-2023/5-grading-tests.git
+[submodule "5-RodionovMaxim05"]
+	path = 5-RodionovMaxim05
+	url = git@github.com:spbu-coding-2023/5-RodionovMaxim05.git
