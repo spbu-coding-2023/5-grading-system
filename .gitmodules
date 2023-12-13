@@ -37,3 +37,6 @@
 [submodule "5-DronShock"]
 	path = 5-DronShock
 	url = git@github.com:spbu-coding-2023/5-DronShock.git
+[submodule "5-ElBananium"]
+	path = 5-ElBananium
+	url = git@github.com:spbu-coding-2023/5-ElBananium.git
