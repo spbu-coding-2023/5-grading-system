@@ -40,3 +40,6 @@
 [submodule "5-ElBananium"]
 	path = 5-ElBananium
 	url = git@github.com:spbu-coding-2023/5-ElBananium.git
+[submodule "5-Friend-zva"]
+	path = 5-Friend-zva
+	url = git@github.com:spbu-coding-2023/5-Friend-zva.git
