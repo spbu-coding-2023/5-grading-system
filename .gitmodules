@@ -67,3 +67,6 @@
 [submodule "5-VersusXX"]
 	path = 5-VersusXX
 	url = git@github.com:spbu-coding-2023/5-VersusXX.git
+[submodule "5-homka122"]
+	path = 5-homka122
+	url = git@github.com:spbu-coding-2023/5-homka122.git
