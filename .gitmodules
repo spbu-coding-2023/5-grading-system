@@ -31,3 +31,6 @@
 [submodule "5-vicitori"]
 	path = 5-vicitori
 	url = git@github.com:spbu-coding-2023/5-vicitori.git
+[submodule "5-DARKpluz"]
+	path = 5-DARKpluz
+	url = git@github.com:spbu-coding-2023/5-DARKpluz.git
