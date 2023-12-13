@@ -46,3 +46,6 @@
 [submodule "5-IslamZZZZ"]
 	path = 5-IslamZZZZ
 	url = git@github.com:spbu-coding-2023/5-IslamZZZZ.git
+[submodule "5-Lyart123"]
+	path = 5-Lyart123
+	url = git@github.com:spbu-coding-2023/5-Lyart123.git
