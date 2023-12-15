@@ -94,3 +94,6 @@
 [submodule "5-SecretPersona5"]
 	path = 5-SecretPersona5
 	url = git@github.com:spbu-coding-2023/5-SecretPersona5.git
+[submodule "5-p1onerka"]
+	path = 5-p1onerka
+	url = git@github.com:spbu-coding-2023/5-p1onerka.git
