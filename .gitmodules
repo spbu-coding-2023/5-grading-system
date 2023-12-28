@@ -121,3 +121,6 @@
 [submodule "5-Asif2040"]
 	path = 5-Asif2040
 	url = git@github.com:spbu-coding-2023/5-Asif2040.git
+[submodule "5-f1i3g3"]
+	path = 5-f1i3g3
+	url = git@github.com:spbu-coding-2023/5-f1i3g3.git
