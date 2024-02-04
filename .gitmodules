@@ -130,3 +130,6 @@
 [submodule "5-MaksimQR"]
 	path = 5-MaksimQR
 	url = git@github.com:spbu-coding-2023/5-MaksimQR.git
+[submodule "5-Kirilich"]
+	path = 5-Kirilich
+	url = git@github.com:spbu-coding-2023/5-Kirilich.git
