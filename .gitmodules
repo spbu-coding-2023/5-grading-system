@@ -136,3 +136,6 @@
 [submodule "5-far1yg"]
 	path = 5-far1yg
 	url = git@github.com:spbu-coding-2023/5-far1yg.git
+[submodule "5-b08lsoai"]
+	path = 5-b08lsoai
+	url = git@github.com:spbu-coding-2023/5-b08lsoai.git
