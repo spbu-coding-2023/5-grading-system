@@ -139,3 +139,6 @@
 [submodule "5-b08lsoai"]
 	path = 5-b08lsoai
 	url = git@github.com:spbu-coding-2023/5-b08lsoai.git
+[submodule "5-vicheka-sk"]
+	path = 5-vicheka-sk
+	url = git@github.com:spbu-coding-2023/5-vicheka-sk.git
