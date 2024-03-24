@@ -145,3 +145,6 @@
 [submodule "5-Dennis2909"]
 	path = 5-Dennis2909
 	url = git@github.com:spbu-coding-2023/5-Dennis2909.git
+[submodule "5-ivanovmapths"]
+	path = 5-ivanovmapths
+	url = git@github.com:spbu-coding-2023/5-ivanovmapths.git
